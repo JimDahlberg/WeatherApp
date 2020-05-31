@@ -273,7 +273,6 @@ def menu(path):
 				print('Fel typ av input')
 		except:
 			print('Fel typ av input')
-#def graph():
 
 def main(path):
 	menu(path)
